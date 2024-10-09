@@ -2,7 +2,7 @@
 
 Beauty in Flowers - Proyecto CSS Grid
 
-Este proyecto esta reproduciendo la herramienta grid usando CSS, creando una página estática simple que muestra una colección de imágenes de Beauty in Flowers organizadas en una cuadrícula responsive, adaptándose a cualquier tamaño de pantalla (escritorio, tablet, móvil).
+Este proyecto esta reproduciendo la herramienta grid usando CSS, creando una página estática simple que muestra una colección de imágenes "Beauty in Flowers" organizadas en una cuadrícula responsive, adaptándose a cualquier tamaño de pantalla (escritorio, tablet, móvil).
 
 Descripción del Proyecto
 El propósito de este proyecto es practicar y demostrar cómo utilizar el CSS Grid para lograr un diseño responsivo que se ajuste a distintos dispositivos. La página presenta varias imágenes de flores distribuidas en una cuadrícula que cambia su estructura dependiendo del tamaño de la pantalla.
