@@ -87,13 +87,19 @@ img {
 
 @media (max-width: 768px) {
     .container {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 
     .header,
     .flower1,
+    .flower2,
+    .flower3,
     .flower4,
     .flower5,
+    .flower6,
+    .flower7,
+    .flower8,
+    .flower9,
     .flower10 {
         grid-column: 1/3;
     }
